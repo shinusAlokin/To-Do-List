@@ -1,4 +1,4 @@
-# crash-course
+
 
 ## Project setup
 ```
